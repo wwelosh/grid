@@ -1,0 +1,18 @@
+.item{
+    border: solid;
+    padding: 20px;
+    margin-top: 20px;
+}
+.one{
+    background-color: goldenrod;
+
+}
+.for{
+ background-color: goldenrod;
+}
+.container{
+    display: grid;
+ grid-template-columns:50% 50% ;
+ grid-gap:10% ;
+ grid-auto-
+}
